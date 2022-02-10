@@ -1,11 +1,15 @@
-#### React Router Fix
+# The Cocktail database
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Using the https://www.thecocktaildb.com/ API I have created a wep page that allows you to search for cocktails. Once you find a cocktail of your choice, there is a cocktail page which lists different types of information about the cocktail including:
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+- name
+- category
+- glass to be served in
+- instructions on how to make the cocktail
+- ingredients
+ 
+This is a small project that has taught me to use:
+- ReactJS
+- React DOM
+- Working with a public API
+- Introducing search functionality
