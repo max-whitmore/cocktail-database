@@ -9,7 +9,7 @@ Using the https://www.thecocktaildb.com/ API I have created a wep page that allo
 - ingredients
  
 This is a small project that has taught me to use:
-- ReactJS
-- React DOM
+- ReactJS (BrowserRouter, Router, Route, Switch)
+- React Router DOM 
 - Working with a public API
 - Introducing search functionality
